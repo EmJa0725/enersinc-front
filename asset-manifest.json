@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/enersinc-frontend/static/css/main.581ed339.css",
-    "main.js": "/enersinc-frontend/static/js/main.3a239e29.js",
-    "static/js/787.7fdce3e0.chunk.js": "/enersinc-frontend/static/js/787.7fdce3e0.chunk.js",
-    "index.html": "/enersinc-frontend/index.html",
-    "main.581ed339.css.map": "/enersinc-frontend/static/css/main.581ed339.css.map",
-    "main.3a239e29.js.map": "/enersinc-frontend/static/js/main.3a239e29.js.map",
-    "787.7fdce3e0.chunk.js.map": "/enersinc-frontend/static/js/787.7fdce3e0.chunk.js.map"
+    "main.css": "/enersinc-front/static/css/main.581ed339.css",
+    "main.js": "/enersinc-front/static/js/main.c63aa1af.js",
+    "static/js/787.7fdce3e0.chunk.js": "/enersinc-front/static/js/787.7fdce3e0.chunk.js",
+    "index.html": "/enersinc-front/index.html",
+    "main.581ed339.css.map": "/enersinc-front/static/css/main.581ed339.css.map",
+    "main.c63aa1af.js.map": "/enersinc-front/static/js/main.c63aa1af.js.map",
+    "787.7fdce3e0.chunk.js.map": "/enersinc-front/static/js/787.7fdce3e0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.581ed339.css",
-    "static/js/main.3a239e29.js"
+    "static/js/main.c63aa1af.js"
   ]
 }
