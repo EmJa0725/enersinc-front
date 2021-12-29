@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/enersinc-frontend/static/css/main.581ed339.css",
+    "main.js": "/enersinc-frontend/static/js/main.3a239e29.js",
+    "static/js/787.7fdce3e0.chunk.js": "/enersinc-frontend/static/js/787.7fdce3e0.chunk.js",
+    "index.html": "/enersinc-frontend/index.html",
+    "main.581ed339.css.map": "/enersinc-frontend/static/css/main.581ed339.css.map",
+    "main.3a239e29.js.map": "/enersinc-frontend/static/js/main.3a239e29.js.map",
+    "787.7fdce3e0.chunk.js.map": "/enersinc-frontend/static/js/787.7fdce3e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.581ed339.css",
+    "static/js/main.3a239e29.js"
+  ]
+}
