@@ -56,7 +56,7 @@ const Home = () => {
                 </Button>
             </div>
             {response && <Notifications message={response} />}
-            <TableContainer component={Paper} sx={{width: 'auto', maxHeight: 600, margin: '30px 30px 0 30px' }}>
+            <TableContainer component={Paper} sx={{width: 'auto', maxHeight: '75vh', margin: '30px 30px 0 30px' }}>
                 <Table stickyHeader aria-label="customized table" className={classes.table}>
                     <TableHead>
                         <TableRow>
