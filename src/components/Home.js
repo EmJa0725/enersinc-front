@@ -15,9 +15,11 @@ import Paper from '@mui/material/Paper';
 // Button
 import Button from '@mui/material/Button';
 import ButtonGroup from '@mui/material/ButtonGroup';
+// Spinner
+import CircularProgress from '@mui/material/CircularProgress';
 // Styles
 import { StyledTableCell, StyledTableRow, useStyles } from '../styles/styles'
-//Components
+// Components
 import Notifications from './Notifications';
 
 const Home = () => {
@@ -94,6 +96,7 @@ const Home = () => {
                     </TableBody>
                 </Table>
             </TableContainer>
+            {!persons.length && <CircularProgress style= {{marginTop: '50px'}} color="secondary" />}
         </Fragment>
     )
 }
